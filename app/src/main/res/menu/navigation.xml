@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_grafica"
+        android:title="@string/title_grafica" />
+
+    <item
+        android:id="@+id/navigation_busqueda"
+        android:title="@string/title_busqueda" />
+
+    <item
+        android:id="@+id/navigation_informacion"
+        android:title="@string/title_informacion" />
+
+</menu>
